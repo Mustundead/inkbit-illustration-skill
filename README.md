@@ -8,6 +8,16 @@ A reusable Agent Skill for monochrome ink illustrations: strong silhouettes, dry
 
 The image demonstrates mark-making. Its cat, ladder, scenery, and pose are not mandatory motifs or a visual acceptance benchmark.
 
+## Subject gallery
+
+| Still life, plants and animals | Buildings, people and landscapes |
+| --- | --- |
+| **Breakfast still life**<br>![Breakfast still life](skills/inkbit-illustration/assets/examples/01-still-life.png)<br>Different dot densities distinguish ceramic, pastry and paper. | **Corner bookshop**<br>![Corner bookshop](skills/inkbit-illustration/assets/examples/04-architecture.png)<br>Ink values separate plaster walls, timber frames and cobblestones. |
+| **Fern and mushrooms**<br>![Fern and mushrooms](skills/inkbit-illustration/assets/examples/02-botanical.png)<br>Fine hatching describes veins; stippling gives moss its softness. | **An afternoon ride**<br>![An afternoon ride](skills/inkbit-illustration/assets/examples/05-human-motion.png)<br>Pose and trailing fabric suggest movement without obscuring the figure. |
+| **Fox in the woods**<br>![Fox in the woods](skills/inkbit-illustration/assets/examples/03-wildlife.png)<br>Silhouette and directional strokes carry fur, balance and movement. | **Headland lighthouse**<br>![Headland lighthouse](skills/inkbit-illustration/assets/examples/06-coastal-landscape.png)<br>Dark foreground and light distance establish depth; blank paper becomes water and air. |
+
+[Full gallery and generation prompts](skills/inkbit-illustration/references/gallery.md). AI-generated examples; credit **MU Labs / Inkbit Illustration**, retain the source and CC BY 4.0 license, and describe changes when reusing or adapting.
+
 ## Use it
 
 ```text

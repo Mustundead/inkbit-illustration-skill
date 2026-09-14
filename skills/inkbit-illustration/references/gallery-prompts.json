@@ -1,0 +1,70 @@
+{
+  "date": "2026-09-14",
+  "tool": "built-in image generation workflow",
+  "model": "not exposed",
+  "note": "English prompts are the actual generation inputs. Chinese prompts are reusable translations, not separate generation runs.",
+  "examples": [
+    {
+      "id": "01-still-life",
+      "en": "Breakfast still life",
+      "zh": "桌上的早餐",
+      "file": "assets/examples/01-still-life.png",
+      "prompt": "Create a finished square editorial illustration in the Inkbit style: warm off-white paper and black ink only, confident irregular dry-ink contours, substantial solid black shapes balanced with clean paper highlights, varied-density hand stippling and short form-following hatching. A vintage printed pen-and-ink illustration with tiny rough ink dots, not smooth grey airbrush, not a uniform noise filter, not a woodgrain overlay, not a pixel grid, not glossy 3D, no colored accents. Clear silhouette at thumbnail size and carefully composed negative space. No decorative frame, no letters, no labels, no watermark, no signature. This is one standalone illustration, not a collage or multi-panel sheet. A ceramic coffee cup and saucer, a flaky croissant on a small plate, and an open book on a wooden breakfast table. Quiet morning window light implied through cast shadows, no actual window frame. Close editorial still life, three-quarter view. Distinguish glossy ceramic white highlights, flaky pastry and matte paper with different ink densities.",
+      "prompt_zh": "正方形 Inkbit 墨点插画。暖白纸面与黑墨，以略干涩的轮廓、明确黑色块面、随形短排线和疏密点阵塑造形体。缩小时轮廓仍清楚，保留呼吸感。不使用彩色强调、平滑灰色渐变、统一噪点滤镜或光滑 3D 质感。不加边框、文字、水印或签名。画一杯放在杯碟上的咖啡、一块盘中的羊角面包和一本摊开的书。三分之四视角，安静的早餐桌。用留白表现陶瓷反光，用短线表现酥皮，用较浅纹理表现纸张。",
+      "lessonEn": "Different dot densities distinguish ceramic, pastry and paper.",
+      "lessonZh": "用不同点阵密度区分陶瓷、酥皮和纸张。"
+    },
+    {
+      "id": "02-botanical",
+      "en": "Fern and mushrooms",
+      "zh": "蕨叶与蘑菇",
+      "file": "assets/examples/02-botanical.png",
+      "prompt": "Create a finished square editorial illustration in the Inkbit style: warm off-white paper and black ink only, confident irregular dry-ink contours, substantial solid black shapes balanced with clean paper highlights, varied-density hand stippling and short form-following hatching. A vintage printed pen-and-ink illustration with tiny rough ink dots, not smooth grey airbrush, not a uniform noise filter, not a woodgrain overlay, not a pixel grid, not glossy 3D, no colored accents. Clear silhouette at thumbnail size and carefully composed negative space. No decorative frame, no letters, no labels, no watermark, no signature. This is one standalone illustration, not a collage or multi-panel sheet. An elegant botanical specimen of a curling fern frond and three tiny mushrooms growing from a small moss-covered stone. Isolated balanced specimen with generous blank warm-white paper around it. Fine leaf veins, soft moss stipple, dark underside of mushroom caps. No labels, no diagram border.",
+      "prompt_zh": "正方形 Inkbit 墨点插画。暖白纸面与黑墨，以略干涩的轮廓、明确黑色块面、随形短排线和疏密点阵塑造形体。缩小时轮廓仍清楚，保留呼吸感。不使用彩色强调、平滑灰色渐变、统一噪点滤镜或光滑 3D 质感。不加边框、文字、水印或签名。画一株卷曲的蕨叶和长在苔藓石头上的三朵小蘑菇。作为独立植物配图，四周保留充足空白。叶脉用细线，苔藓用点阵，菌盖底部用深墨色。",
+      "lessonEn": "Fine hatching describes veins; stippling gives moss its softness.",
+      "lessonZh": "以细排线描叶脉，用疏密点阵表现苔藓。"
+    },
+    {
+      "id": "03-wildlife",
+      "en": "Fox in the woods",
+      "zh": "林间的狐狸",
+      "file": "assets/examples/03-wildlife.png",
+      "prompt": "Create a finished square editorial illustration in the Inkbit style: warm off-white paper and black ink only, confident irregular dry-ink contours, substantial solid black shapes balanced with clean paper highlights, varied-density hand stippling and short form-following hatching. A vintage printed pen-and-ink illustration with tiny rough ink dots, not smooth grey airbrush, not a uniform noise filter, not a woodgrain overlay, not a pixel grid, not glossy 3D, no colored accents. Clear silhouette at thumbnail size and carefully composed negative space. No decorative frame, no letters, no labels, no watermark, no signature. This is one standalone illustration, not a collage or multi-panel sheet. A small alert red fox, rendered entirely in black ink and white paper without orange, walking across a fallen log in a quiet woodland clearing. Full body natural fox anatomy, two paws visibly bearing weight on the log, the other paws in a plausible walking step; bushy tail balances behind. Delicate fir saplings and distant pale trunks, not dense wall-to-wall trees. Fox looking ahead. Fur transitions through directional short strokes.",
+      "prompt_zh": "正方形 Inkbit 墨点插画。暖白纸面与黑墨，以略干涩的轮廓、明确黑色块面、随形短排线和疏密点阵塑造形体。缩小时轮廓仍清楚，保留呼吸感。不使用彩色强调、平滑灰色渐变、统一噪点滤镜或光滑 3D 质感。不加边框、文字、水印或签名。画一只狐狸走过林间倒木。完整侧面身体，脚掌与木头的接触可信，抬脚形成自然步态，蓬松尾巴保持平衡。毛发用顺着身体方向的短线，远处树干保持浅淡。",
+      "lessonEn": "Silhouette and directional strokes carry fur, balance and movement.",
+      "lessonZh": "靠轮廓和顺向笔触表现毛发、重心与步态。"
+    },
+    {
+      "id": "04-architecture",
+      "en": "Corner bookshop",
+      "zh": "街角书店",
+      "file": "assets/examples/04-architecture.png",
+      "prompt": "Create a finished square editorial illustration in the Inkbit style: warm off-white paper and black ink only, confident irregular dry-ink contours, substantial solid black shapes balanced with clean paper highlights, varied-density hand stippling and short form-following hatching. A vintage printed pen-and-ink illustration with tiny rough ink dots, not smooth grey airbrush, not a uniform noise filter, not a woodgrain overlay, not a pixel grid, not glossy 3D, no colored accents. Clear silhouette at thumbnail size and carefully composed negative space. No decorative frame, no letters, no labels, no watermark, no signature. This is one standalone illustration, not a collage or multi-panel sheet. A charming small two-storey corner bookshop on a narrow cobblestone street. Old plaster walls, dark timber window frames, an open doorway, books visible as simple spines in the display window, a bicycle leaning firmly against the side wall, and two modest plant pots. Three-quarter architectural perspective with believable aligned windows and straight walls. No lettering or signs. Clean sky and generous margins.",
+      "prompt_zh": "正方形 Inkbit 墨点插画。暖白纸面与黑墨，以略干涩的轮廓、明确黑色块面、随形短排线和疏密点阵塑造形体。缩小时轮廓仍清楚，保留呼吸感。不使用彩色强调、平滑灰色渐变、统一噪点滤镜或光滑 3D 质感。不加边框、文字、水印或签名。画一间街角的两层书店，三分之四建筑视角。灰泥墙、深色木窗框、打开的门、橱窗里的书、自行车和少量盆栽。墙面与窗框透视一致，不生成招牌文字。",
+      "lessonEn": "Ink values separate plaster walls, timber frames and cobblestones.",
+      "lessonZh": "用墨色层次区分墙面、木框与石板路。"
+    },
+    {
+      "id": "05-human-motion",
+      "en": "An afternoon ride",
+      "zh": "骑行的午后",
+      "file": "assets/examples/05-human-motion.png",
+      "prompt": "Create a finished square editorial illustration in the Inkbit style: warm off-white paper and black ink only, confident irregular dry-ink contours, substantial solid black shapes balanced with clean paper highlights, varied-density hand stippling and short form-following hatching. A vintage printed pen-and-ink illustration with tiny rough ink dots, not smooth grey airbrush, not a uniform noise filter, not a woodgrain overlay, not a pixel grid, not glossy 3D, no colored accents. Clear silhouette at thumbnail size and carefully composed negative space. No decorative frame, no letters, no labels, no watermark, no signature. This is one standalone illustration, not a collage or multi-panel sheet. A young adult wearing a loose jacket and trousers riding a simple city bicycle from left to right along a gentle path. Natural profile pose, hands accurately resting on handlebars, feet on pedals, two round wheels aligned along ground, a light scarf and jacket hem trailing gently to suggest motion. Minimal distant grasses and one low rolling hill, generous empty sky. Face a few restrained ink marks, not photorealistic. Plausible bicycle geometry, no text or logos.",
+      "prompt_zh": "正方形 Inkbit 墨点插画。暖白纸面与黑墨，以略干涩的轮廓、明确黑色块面、随形短排线和疏密点阵塑造形体。缩小时轮廓仍清楚，保留呼吸感。不使用彩色强调、平滑灰色渐变、统一噪点滤镜或光滑 3D 质感。不加边框、文字、水印或签名。画一个穿宽松外套的人从左向右骑自行车。侧面视角，手扶车把，双脚踩踏板，车轮落地。围巾和衣摆轻轻向后扬起，远处只有草地和低矮山丘。",
+      "lessonEn": "Pose and trailing fabric suggest movement without obscuring the figure.",
+      "lessonZh": "通过姿态和衣摆表现动感，纹理不盖过人物轮廓。",
+      "edit_prompt": "Edit this illustration, improving only the rider's character design while preserving the bicycle, composition, landscape and warm ivory/black ink style. Make the adult woman charming and graceful in a refined illustrated storybook/editorial manner: soft clean facial profile, delicate short nose, gently curved jaw, relaxed subtle smile, expressive simple eye, natural neck and proportions. Neatly gathered loose hair with just a few windblown wisps. Light elegant jacket with a clear silhouette and broad paper-white areas instead of dense scratchy fabric shading; tapered trousers, simple shoes and trailing light scarf. Maintain plausible seated cycling posture, hands actually gripping handlebars and feet contacting pedals. Restrained contour and form-following short hatch marks, variable stipple, strong black hair and balanced black accents. Avoid harsh angular face, heavy cheek shading, cluttered wrinkles, glamour makeup, anime eyes, photorealistic face, glossy shading or any color. Keep the exact square crop and background. Deliver one finished image.",
+      "edit_prompt_zh": "仅调整骑行者：柔和清秀的侧脸、简洁五官、自然微笑、轻盈外套和大面积纸白，减少脸部和衣服的密集碎线。保留自行车、风景、构图、可信骑行姿态与黑白墨点风格。"
+    },
+    {
+      "id": "06-coastal-landscape",
+      "en": "Headland lighthouse",
+      "zh": "海岬灯塔",
+      "file": "assets/examples/06-coastal-landscape.png",
+      "prompt": "Create a finished square editorial illustration in the Inkbit style: warm off-white paper and black ink only, confident irregular dry-ink contours, substantial solid black shapes balanced with clean paper highlights, varied-density hand stippling and short form-following hatching. A vintage printed pen-and-ink illustration with tiny rough ink dots, not smooth grey airbrush, not a uniform noise filter, not a woodgrain overlay, not a pixel grid, not glossy 3D, no colored accents. Clear silhouette at thumbnail size and carefully composed negative space. No decorative frame, no letters, no labels, no watermark, no signature. This is one standalone illustration, not a collage or multi-panel sheet. A dramatic but peaceful coastal headland landscape: a small white lighthouse on a distant rocky promontory at upper right, a tiny sailboat crossing a calm inlet in the middle distance, jagged dark foreground rocks at lower left and sweeping white waves. Layered depth through ink density. Sky occupies upper third with just two small clouds and abundant blank paper, no sunburst. Sea marked with sparse horizontal strokes, rocks with dense short hatching.",
+      "prompt_zh": "正方形 Inkbit 墨点插画。暖白纸面与黑墨，以略干涩的轮廓、明确黑色块面、随形短排线和疏密点阵塑造形体。缩小时轮廓仍清楚，保留呼吸感。不使用彩色强调、平滑灰色渐变、统一噪点滤镜或光滑 3D 质感。不加边框、文字、水印或签名。画一座海岬灯塔与海湾中的小帆船。近处岩石用浓密短排线，远景墨色变浅，海面用稀疏横线，浪花和天空用纸面留白。上方留出宽阔天空。",
+      "lessonEn": "Dark foreground and light distance establish depth; blank paper becomes water and air.",
+      "lessonZh": "前景深、远景浅，以留白表现海面与空间。"
+    }
+  ]
+}

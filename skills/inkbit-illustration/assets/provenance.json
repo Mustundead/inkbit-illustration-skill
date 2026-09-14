@@ -1,11 +1,71 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "assets": [
     {
       "file": "assets/style-reference.png",
       "sha256": "a8a6ab2b76fa2560181bbc9cf2dce78b7e67f2b7fab780f64e433642018a117c",
       "role": "mark-making reference only",
       "provenance": "AI-generated illustration supplied by the project maintainer during style development. It is an example, not an anatomy or pose acceptance benchmark.",
+      "tool": "built-in image generation workflow",
+      "model": "not exposed",
+      "license": "CC-BY-4.0 to the extent the contributor holds applicable rights",
+      "contains_third_party_logos": false
+    },
+    {
+      "file": "assets/examples/01-still-life.png",
+      "sha256": "efd21246f4f0c59065c8561ab3984619a0923b8fde4c00bb4afc3be92131457a",
+      "role": "subject-diversity style example",
+      "provenance": "AI-generated for the Inkbit example gallery on 2026-09-14; visually inspected as an illustration, not a technical or anatomy benchmark. Prompt recorded in references/gallery-prompts.json.",
+      "tool": "built-in image generation workflow",
+      "model": "not exposed",
+      "license": "CC-BY-4.0 to the extent the contributor holds applicable rights",
+      "contains_third_party_logos": false
+    },
+    {
+      "file": "assets/examples/02-botanical.png",
+      "sha256": "48d5aecd1dd03ae3b93e7f069d3caa7c9ed75b0d170c274a9280de3c146871c8",
+      "role": "subject-diversity style example",
+      "provenance": "AI-generated for the Inkbit example gallery on 2026-09-14; visually inspected as an illustration, not a technical or anatomy benchmark. Prompt recorded in references/gallery-prompts.json.",
+      "tool": "built-in image generation workflow",
+      "model": "not exposed",
+      "license": "CC-BY-4.0 to the extent the contributor holds applicable rights",
+      "contains_third_party_logos": false
+    },
+    {
+      "file": "assets/examples/03-wildlife.png",
+      "sha256": "9e0676e8b8eadb1f4e1e5298975b72eba47d7fab7fff8085a33c80567f4b01c6",
+      "role": "subject-diversity style example",
+      "provenance": "AI-generated for the Inkbit example gallery on 2026-09-14; visually inspected as an illustration, not a technical or anatomy benchmark. Prompt recorded in references/gallery-prompts.json.",
+      "tool": "built-in image generation workflow",
+      "model": "not exposed",
+      "license": "CC-BY-4.0 to the extent the contributor holds applicable rights",
+      "contains_third_party_logos": false
+    },
+    {
+      "file": "assets/examples/04-architecture.png",
+      "sha256": "df598d31e96569c75ad121588441ab496a578d490b420ed54cd9ed6042446b87",
+      "role": "subject-diversity style example",
+      "provenance": "AI-generated for the Inkbit example gallery on 2026-09-14; visually inspected as an illustration, not a technical or anatomy benchmark. Prompt recorded in references/gallery-prompts.json.",
+      "tool": "built-in image generation workflow",
+      "model": "not exposed",
+      "license": "CC-BY-4.0 to the extent the contributor holds applicable rights",
+      "contains_third_party_logos": false
+    },
+    {
+      "file": "assets/examples/05-human-motion.png",
+      "sha256": "3a0be5b3c9fc6d0d90579de6e73162b174a72e3e5b272cc0605c57b1683a7467",
+      "role": "subject-diversity style example",
+      "provenance": "AI-generated for the Inkbit example gallery on 2026-09-14; visually inspected as an illustration, not a technical or anatomy benchmark. Prompt recorded in references/gallery-prompts.json. Revised character design after maintainer feedback; final edit prompt is recorded alongside the initial prompt.",
+      "tool": "built-in image generation workflow",
+      "model": "not exposed",
+      "license": "CC-BY-4.0 to the extent the contributor holds applicable rights",
+      "contains_third_party_logos": false
+    },
+    {
+      "file": "assets/examples/06-coastal-landscape.png",
+      "sha256": "edddda1431fd538fe71522763de2a58487e572c4aa8642de941029f56ffcb204",
+      "role": "subject-diversity style example",
+      "provenance": "AI-generated for the Inkbit example gallery on 2026-09-14; visually inspected as an illustration, not a technical or anatomy benchmark. Prompt recorded in references/gallery-prompts.json.",
       "tool": "built-in image generation workflow",
       "model": "not exposed",
       "license": "CC-BY-4.0 to the extent the contributor holds applicable rights",

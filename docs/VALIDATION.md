@@ -17,3 +17,7 @@ The remaining rendering, transparency, identity, theme, and review fixtures in `
 ## 0.1.1 release checks / 发布检查
 
 The attribution update was structurally revalidated locally. Earlier prompt exercises remain historical 0.1.0 evidence; visual benchmark limitations are unchanged. / 署名更新已重新通过本地结构检查；早先提示词演练属于 0.1.0 历史证据，视觉基准验证范围未扩大。
+
+## 0.1.2 gallery / 示例画廊
+
+2026-09-14: Six AI-generated subject examples were visually inspected, including a revised cyclist after maintainer feedback. Local metadata, bilingual links and all seven asset hashes passed validation. Actual English generation and edit prompts plus Chinese reusable translations are recorded. These are illustrative examples, not anatomy or engineering benchmarks; Chinese translations were not separately rendered. User acceptance is not claimed. / 六张题材示例已逐张检查，骑行人物按反馈修订。元数据、双语链接与七张素材哈希通过本地验证；记录实际英文生成和修改提示词及中文译写。不声称用户已验收或通过专业结构基准。

@@ -4,7 +4,7 @@ description: 创作或修改复古黑白墨线、疏密点阵与纸面留白插�
 license: CC-BY-4.0
 metadata:
   author: MU Labs
-  version: "0.1.1"
+  version: "0.1.2"
   language: zh-CN
 ---
 
@@ -53,3 +53,5 @@ metadata:
 ## 署名
 
 分享或改编本包内容时，遵循 [署名与许可](NOTICE.md)：署名 MU Labs / Inkbit Illustration，附来源与 CC BY 4.0 链接并说明修改。不要自动把署名绘入用户插画；在适用的说明或致谢中署名。
+
+[不同题材的示例与提示词](references/gallery.zh-CN.md) 展示静物、植物、动物、建筑、人物与风景。按需要读取，不必加载全部示例。
