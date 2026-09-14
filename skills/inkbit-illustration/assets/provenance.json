@@ -120,6 +120,26 @@
       "model": "not exposed",
       "license": "CC-BY-4.0 to the extent the contributor holds applicable rights",
       "contains_third_party_logos": false
+    },
+    {
+      "file": "assets/examples/12-harbor.png",
+      "sha256": "b92cc8a5711188d99ec84fdc95ba5f65ebc6c998f5a75d9b9765f60d1fb3b5da",
+      "role": "user-selected example",
+      "provenance": "AI-generated illustration selected by the maintainer for publication. Actual English prompt and Chinese reusable adaptation recorded in references/selected-prompts.json.",
+      "tool": "built-in image generation workflow",
+      "model": "not exposed",
+      "license": "CC-BY-4.0 to the extent the contributor holds applicable rights",
+      "contains_third_party_logos": false
+    },
+    {
+      "file": "assets/examples/13-reading-corner.png",
+      "sha256": "ab16b8d1e84d7637c8c878730a2689388c23242607f3b63f322270d70ffbbd63",
+      "role": "user-selected example",
+      "provenance": "AI-generated illustration selected by the maintainer for publication. Actual English prompt and Chinese reusable adaptation recorded in references/selected-prompts.json.",
+      "tool": "built-in image generation workflow",
+      "model": "not exposed",
+      "license": "CC-BY-4.0 to the extent the contributor holds applicable rights",
+      "contains_third_party_logos": false
     }
   ]
 }

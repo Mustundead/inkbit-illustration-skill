@@ -18,6 +18,10 @@
 
 ![湖畔露营](skills/inkbit-illustration/assets/examples/11-camping.png)
 
+![航海港口](skills/inkbit-illustration/assets/examples/12-harbor.png)
+
+![阅读空间](skills/inkbit-illustration/assets/examples/13-reading-corner.png)
+
 [查看每张图片的提示词](skills/inkbit-illustration/references/selected-gallery.zh-CN.md) · MU Labs / Inkbit Illustration · CC BY 4.0
 
 

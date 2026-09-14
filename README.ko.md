@@ -17,6 +17,10 @@ Inkbit 흑백 잉크 일러스트를 만들거나 수정합니다. 윤곽, 점�
 
 ![Lakeside camping](skills/inkbit-illustration/assets/examples/11-camping.png)
 
+![Sailing harbor](skills/inkbit-illustration/assets/examples/12-harbor.png)
+
+![Reading corner](skills/inkbit-illustration/assets/examples/13-reading-corner.png)
+
 [Image prompts](skills/inkbit-illustration/references/selected-gallery.md) · MU Labs / Inkbit Illustration · CC BY 4.0
 
 

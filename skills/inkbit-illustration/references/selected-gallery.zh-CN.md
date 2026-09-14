@@ -2,7 +2,7 @@
 
 [English](selected-gallery.md)
 
-以下五张由维护者选定。保留实际英文生成提示词，并附中文复用版；中文版本未单独生成验证。工作台原始提示词含暖白描述，属于严格纯白要求之前的记录，原文不作追改；新生成请使用纯白背景。
+以下七张由维护者选定。保留实际英文生成提示词，并附中文复用版；中文版本未单独生成验证。工作台原始提示词含暖白描述，属于严格纯白要求之前的记录，原文不作追改；新生成请使用纯白背景。
 
 ## 创作者的工作台
 
@@ -92,6 +92,42 @@ A refined Inkbit black ink editorial illustration for a baking recipe collection
 
 ```text
 Create a black and white Inkbit editorial outdoor illustration: a small pitched tent beside a still alpine lake, a camping lantern standing on a flat stone in the foreground, distant pine silhouettes and mountain ridges beneath a large starry sky. No people. Quiet night scene expressed in black ink masses with pure white stars and white lake reflections, no gradients. Clearly drawn tent ropes anchored to ground, no campfire, no clutter. Landscape composition with layered depth, expressive slightly dry ink contours, irregular hand stippling and short directional hatching. STRICTLY BLACK AND WHITE, pure white unprinted areas, no cream or tinted paper, no sepia brown, no blue, no colored light, no aged background texture. Illustrative and graphic not photorealistic. No text, symbols, border or watermark.
+```
+
+## 航海港口
+
+![航海港口](../assets/examples/12-harbor.png)
+
+用于海岸旅行指南或航海专题。
+
+### 中文复用提示词
+
+```text
+绘制黑白墨线港口场景：收帆的小帆船系在木码头旁，前景有缆绳和系船柱，远处是低矮港口建筑与防波堤。横向构图，天空留白，水面以断续白色反光表现。使用纯黑墨色与纯白背景、干涩轮廓、疏密点阵和随形短排线，不加人物、文字、标志或彩色。
+```
+
+### 实际英文生成提示词
+
+```text
+One beautiful Inkbit black-and-white editorial harbor scene for a coastal travel guide: a small sailboat moored alongside a wooden jetty, a coiled rope and sturdy bollard in foreground, low harbor buildings and a distant breakwater. Furled sail, credible mast and rigging, quiet water with crisp interrupted white reflections. Wide landscape composition, generous white sky, layered depth. Dry expressive hand ink outlines, substantial black shadow shapes, variable hand stippling and short directional hatching. PURE BLACK ink on PURE WHITE, no colored or warm paper, no sepia, no cream, no blue water, no gray airbrush gradients, no photographic filter. No people, text, logos, border or watermark. Restrained evocative print illustration, one coherent scene.
+```
+
+## 阅读空间
+
+![阅读空间](../assets/examples/13-reading-corner.png)
+
+用于阅读应用、图书馆或室内生活主题。
+
+### 中文复用提示词
+
+```text
+绘制黑白墨点阅读角：略倾斜的舒适扶手椅上自然放着一本打开的书，细长落地灯弯向椅子，后方是书本高低错落的矮书柜。器物完整，四周留白。以黑色阴影、白色高光、干涩墨线、点阵和短排线塑造材质。纯黑墨色与纯白背景，不加人物、咖啡、植物、文字或标志。
+```
+
+### 实际英文生成提示词
+
+```text
+Create a refined Inkbit editorial illustration of a welcoming reading corner for a library or reading app: one comfortably proportioned armchair at a gentle angle, an open book resting naturally on the seat, a slim floor lamp arching overhead, and a low bookcase with a few uneven book heights behind. No coffee, no plants, no people, no extra decorations. Balanced asymmetrical square composition, complete furniture visible, generous pure white surrounding space. Strong black chair shadow and lamp accents, clear white upholstery highlights. Dry expressive ink contours, hand stippling and selective short form-following hatch lines, simplified yet tactile forms. Strictly neutral BLACK INK ON PURE WHITE, no cream paper, no sepia, no brown, no warm tint, no colored accents, no aged texture. No lettering on books, no logo, border, watermark, photorealism, smooth gray wash or glossy 3D. Single finished illustration.
 ```
 
 MU Labs / Inkbit Illustration · [Source](https://github.com/mustundead/inkbit-illustration-skill) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · [NOTICE](../NOTICE.md)
