@@ -4,9 +4,6 @@
 
 A reusable Agent Skill for monochrome ink illustrations: strong silhouettes, dry contours, stippling, short hatching, and generous paper negative space. By MU Labs.
 
-![Ink and stipple style reference](skills/inkbit-illustration/assets/style-reference.png)
-
-The image demonstrates mark-making. Its cat, ladder, scenery, and pose are not mandatory motifs or a visual acceptance benchmark.
 
 
 ## Selected examples
@@ -23,16 +20,6 @@ The image demonstrates mark-making. Its cat, ladder, scenery, and pose are not m
 
 [Image prompts](skills/inkbit-illustration/references/selected-gallery.md) · MU Labs / Inkbit Illustration · CC BY 4.0
 
-
-## Subject gallery
-
-| Product illustrations and wildlife | Buildings, people and landscapes |
-| --- | --- |
-| **Reading and discovery**<br>![Reading and discovery](skills/inkbit-illustration/assets/examples/01-reading-hero.png)<br>A reading-app hero: the page becomes a path; left-side space accommodates a heading. | **Corner bookshop**<br>![Corner bookshop](skills/inkbit-illustration/assets/examples/04-architecture.png)<br>Ink values separate plaster walls, timber frames and cobblestones. |
-| **Empty collection**<br>![Empty collection](skills/inkbit-illustration/assets/examples/02-empty-state.png)<br>An empty-state illustration for files, saved items or notes; keep status copy in the interface. | **An afternoon ride**<br>![An afternoon ride](skills/inkbit-illustration/assets/examples/05-human-motion.png)<br>Pose and trailing fabric suggest movement without obscuring the figure. |
-| **Fox in the woods**<br>![Fox in the woods](skills/inkbit-illustration/assets/examples/03-wildlife.png)<br>Silhouette and directional strokes carry fur, balance and movement. | **Headland lighthouse**<br>![Headland lighthouse](skills/inkbit-illustration/assets/examples/06-coastal-landscape.png)<br>Dark foreground and light distance establish depth; blank paper becomes water and air. |
-
-[Full gallery and generation prompts](skills/inkbit-illustration/references/gallery.md). AI-generated examples; credit **MU Labs / Inkbit Illustration**, retain the source and CC BY 4.0 license, and describe changes when reusing or adapting.
 
 ## Use it
 

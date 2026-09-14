@@ -4,9 +4,6 @@
 
 可反复调用的黑白墨线插画 Agent Skill：明确轮廓、干涩笔触、疏密点阵、短排线与纸面留白。由 MU Labs 制作。
 
-![墨线与点阵风格参考](skills/inkbit-illustration/assets/style-reference.png)
-
-图片仅示范画法，其中的猫、梯子、风景和动作不是固定元素，也不是视觉验收基准。
 
 
 ## 精选示例
@@ -23,16 +20,6 @@
 
 [查看每张图片的提示词](skills/inkbit-illustration/references/selected-gallery.zh-CN.md) · MU Labs / Inkbit Illustration · CC BY 4.0
 
-
-## 题材画廊
-
-| 产品配图与动物 | 建筑、人物与风景 |
-| --- | --- |
-| **阅读与探索**<br>![阅读与探索](skills/inkbit-illustration/assets/examples/01-reading-hero.png)<br>用于阅读应用首屏：书页化为探索路径，左侧留出标题空间。 | **街角书店**<br>![街角书店](skills/inkbit-illustration/assets/examples/04-architecture.png)<br>用墨色层次区分墙面、木框与石板路。 |
-| **暂无收藏**<br>![暂无收藏](skills/inkbit-illustration/assets/examples/02-empty-state.png)<br>用于文件、收藏或笔记空状态；状态文字由真实界面排版。 | **骑行的午后**<br>![骑行的午后](skills/inkbit-illustration/assets/examples/05-human-motion.png)<br>通过姿态和衣摆表现动感，纹理不盖过人物轮廓。 |
-| **林间的狐狸**<br>![林间的狐狸](skills/inkbit-illustration/assets/examples/03-wildlife.png)<br>靠轮廓和顺向笔触表现毛发、重心与步态。 | **海岬灯塔**<br>![海岬灯塔](skills/inkbit-illustration/assets/examples/06-coastal-landscape.png)<br>前景深、远景浅，以留白表现海面与空间。 |
-
-[查看完整图集与中文提示词](skills/inkbit-illustration/references/gallery.zh-CN.md)。AI 生成示例；引用或改编请署名 **MU Labs / Inkbit Illustration**，保留来源与 CC BY 4.0 许可，并说明修改。
 
 ## 使用
 
