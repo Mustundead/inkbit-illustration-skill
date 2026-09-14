@@ -8,6 +8,22 @@
 
 图片仅示范画法，其中的猫、梯子、风景和动作不是固定元素，也不是视觉验收基准。
 
+
+## 精选示例
+
+![创作者的工作台](skills/inkbit-illustration/assets/examples/07-workspace.png)
+
+![城市骑行](skills/inkbit-illustration/assets/examples/08-city-cycling.png)
+
+![音乐聆听](skills/inkbit-illustration/assets/examples/09-music.png)
+
+![烘焙厨房](skills/inkbit-illustration/assets/examples/10-baking.png)
+
+![湖畔露营](skills/inkbit-illustration/assets/examples/11-camping.png)
+
+[查看每张图片的提示词](skills/inkbit-illustration/references/selected-gallery.zh-CN.md) · MU Labs / Inkbit Illustration · CC BY 4.0
+
+
 ## 题材画廊
 
 | 产品配图与动物 | 建筑、人物与风景 |

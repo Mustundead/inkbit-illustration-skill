@@ -4,6 +4,22 @@
 
 Inkbit の白黒インクイラストを制作・編集します。輪郭、点描、短いハッチング、余白を用いたキービジュアルや挿絵向けです。一般的なサイト改修や正確な UI・ロゴの再現には使用しません。
 
+
+## 選定された作例
+
+![Creative workspace](skills/inkbit-illustration/assets/examples/07-workspace.png)
+
+![City cycling](skills/inkbit-illustration/assets/examples/08-city-cycling.png)
+
+![Listening to music](skills/inkbit-illustration/assets/examples/09-music.png)
+
+![Baking kitchen](skills/inkbit-illustration/assets/examples/10-baking.png)
+
+![Lakeside camping](skills/inkbit-illustration/assets/examples/11-camping.png)
+
+[Image prompts](skills/inkbit-illustration/references/selected-gallery.md) · MU Labs / Inkbit Illustration · CC BY 4.0
+
+
 ## インストールと使用
 
 `skills/inkbit-illustration` フォルダー全体をホストのスキル保存先へコピーします。一つだけインストールしてください。既定は簡体字中国語で、繁体字中国語、英語、日本語、韓国語でも依頼できます。

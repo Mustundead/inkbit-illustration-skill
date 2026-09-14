@@ -8,6 +8,22 @@ A reusable Agent Skill for monochrome ink illustrations: strong silhouettes, dry
 
 The image demonstrates mark-making. Its cat, ladder, scenery, and pose are not mandatory motifs or a visual acceptance benchmark.
 
+
+## Selected examples
+
+![Creative workspace](skills/inkbit-illustration/assets/examples/07-workspace.png)
+
+![City cycling](skills/inkbit-illustration/assets/examples/08-city-cycling.png)
+
+![Listening to music](skills/inkbit-illustration/assets/examples/09-music.png)
+
+![Baking kitchen](skills/inkbit-illustration/assets/examples/10-baking.png)
+
+![Lakeside camping](skills/inkbit-illustration/assets/examples/11-camping.png)
+
+[Image prompts](skills/inkbit-illustration/references/selected-gallery.md) · MU Labs / Inkbit Illustration · CC BY 4.0
+
+
 ## Subject gallery
 
 | Product illustrations and wildlife | Buildings, people and landscapes |

@@ -70,6 +70,56 @@
       "model": "not exposed",
       "license": "CC-BY-4.0 to the extent the contributor holds applicable rights",
       "contains_third_party_logos": false
+    },
+    {
+      "file": "assets/examples/07-workspace.png",
+      "sha256": "3dd58e6b5c0054fe9a58114f818aeaeffb59dcb4c1a739a65cf7f4f533b35831",
+      "role": "user-selected example",
+      "provenance": "User-selected AI-generated example; original English prompt recorded in references/selected-prompts.json. Uploaded clipboard copy of the workspace generation; prompt matched from conversation and saved generation record. Original prompt used near-white/warm-white wording; it predates the strict pure-white rule.",
+      "tool": "built-in image generation workflow",
+      "model": "not exposed",
+      "license": "CC-BY-4.0 to the extent the contributor holds applicable rights",
+      "contains_third_party_logos": false
+    },
+    {
+      "file": "assets/examples/08-city-cycling.png",
+      "sha256": "c3c8db5660c0b5a4c17a873d6da5ac71f737da98c7109cb729a5b4c955d5d428",
+      "role": "user-selected example",
+      "provenance": "User-selected AI-generated example; original English prompt recorded in references/selected-prompts.json.",
+      "tool": "built-in image generation workflow",
+      "model": "not exposed",
+      "license": "CC-BY-4.0 to the extent the contributor holds applicable rights",
+      "contains_third_party_logos": false
+    },
+    {
+      "file": "assets/examples/09-music.png",
+      "sha256": "0b7bf4b46adc148a8db395309196a934e10448278911039de6cda9e1202a7e54",
+      "role": "user-selected example",
+      "provenance": "User-selected AI-generated example; original English prompt recorded in references/selected-prompts.json.",
+      "tool": "built-in image generation workflow",
+      "model": "not exposed",
+      "license": "CC-BY-4.0 to the extent the contributor holds applicable rights",
+      "contains_third_party_logos": false
+    },
+    {
+      "file": "assets/examples/10-baking.png",
+      "sha256": "ac1b5a41dfb8234bde14681ba825b80837c7b24452e2891fdc20f9c018b5158c",
+      "role": "user-selected example",
+      "provenance": "User-selected AI-generated example; original English prompt recorded in references/selected-prompts.json.",
+      "tool": "built-in image generation workflow",
+      "model": "not exposed",
+      "license": "CC-BY-4.0 to the extent the contributor holds applicable rights",
+      "contains_third_party_logos": false
+    },
+    {
+      "file": "assets/examples/11-camping.png",
+      "sha256": "ef47d6d273e6a709d8d908337f1001c1b4c1d03632028dbfd6b2a374334eb4d4",
+      "role": "user-selected example",
+      "provenance": "User-selected AI-generated example; original English prompt recorded in references/selected-prompts.json.",
+      "tool": "built-in image generation workflow",
+      "model": "not exposed",
+      "license": "CC-BY-4.0 to the extent the contributor holds applicable rights",
+      "contains_third_party_logos": false
     }
   ]
 }
