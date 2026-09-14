@@ -4,27 +4,29 @@
 
 Six subjects share one ink vocabulary. Look at how black masses, short hatching, stippling and blank paper change with material and composition. These are mark-making examples, not mandatory subjects.
 
-The images are AI-generated and visually inspected as illustrations, not anatomy, engineering or accurate-lettering references. Marks on the breakfast book are decorative texture. The prompts below are the actual generation inputs; [the prompt record](gallery-prompts.json) also includes reusable Chinese translations, which were not rendered separately.
+The images are AI-generated and visually inspected as illustrations, not anatomy, engineering or accurate-lettering references. The prompts below are the actual generation inputs; [the prompt record](gallery-prompts.json) also includes reusable Chinese translations, which were not rendered separately.
 
-## Breakfast still life
+## Reading and discovery
 
-![Breakfast still life](../assets/examples/01-still-life.png)
+![Reading and discovery](../assets/examples/01-reading-hero.png)
 
-Different dot densities distinguish ceramic, pastry and paper.
-
-```text
-Create a finished square editorial illustration in the Inkbit style: warm off-white paper and black ink only, confident irregular dry-ink contours, substantial solid black shapes balanced with clean paper highlights, varied-density hand stippling and short form-following hatching. A vintage printed pen-and-ink illustration with tiny rough ink dots, not smooth grey airbrush, not a uniform noise filter, not a woodgrain overlay, not a pixel grid, not glossy 3D, no colored accents. Clear silhouette at thumbnail size and carefully composed negative space. No decorative frame, no letters, no labels, no watermark, no signature. This is one standalone illustration, not a collage or multi-panel sheet. A ceramic coffee cup and saucer, a flaky croissant on a small plate, and an open book on a wooden breakfast table. Quiet morning window light implied through cast shadows, no actual window frame. Close editorial still life, three-quarter view. Distinguish glossy ceramic white highlights, flaky pastry and matte paper with different ink densities.
-```
-
-## Fern and mushrooms
-
-![Fern and mushrooms](../assets/examples/02-botanical.png)
-
-Fine hatching describes veins; stippling gives moss its softness.
+A reading-app hero: the page becomes a path; left-side space accommodates a heading.
 
 ```text
-Create a finished square editorial illustration in the Inkbit style: warm off-white paper and black ink only, confident irregular dry-ink contours, substantial solid black shapes balanced with clean paper highlights, varied-density hand stippling and short form-following hatching. A vintage printed pen-and-ink illustration with tiny rough ink dots, not smooth grey airbrush, not a uniform noise filter, not a woodgrain overlay, not a pixel grid, not glossy 3D, no colored accents. Clear silhouette at thumbnail size and carefully composed negative space. No decorative frame, no letters, no labels, no watermark, no signature. This is one standalone illustration, not a collage or multi-panel sheet. An elegant botanical specimen of a curling fern frond and three tiny mushrooms growing from a small moss-covered stone. Isolated balanced specimen with generous blank warm-white paper around it. Fine leaf veins, soft moss stipple, dark underside of mushroom caps. No labels, no diagram border.
+Create an Inkbit illustrated hero for a reading or knowledge app: an open book in the lower right becomes a winding white path extending seamlessly out of its pages toward a small distant mountain peak. A tiny traveler seen from behind walks up that path, showing discovery through reading. Strong elegant visual metaphor, restrained surreal editorial composition. LEFT THIRD stays completely empty near-white paper for real heading text; artwork occupies right two thirds. Landscape 3:2 composition. Black ink on subtle near-white warm paper only. Confident dry irregular ink contours, bold black mountain shadow planes, irregular stipple density and short directional hatching; white path reads crisply through dark terrain. Mid-level illustration detail, not photograph engraving and not childish clipart. Book perspective plausible, no printed marks or fake letters on pages. No coffee, food, mushrooms, plants-as-decoration, badges, logos, text, borders, sepia ink, glossy 3D or uniform grain. Quiet adventurous mood, useful product illustration, single coherent scene.
 ```
+
+
+## Empty collection
+
+![Empty collection](../assets/examples/02-empty-state.png)
+
+An empty-state illustration for files, saved items or notes; keep status copy in the interface.
+
+```text
+Create a practical app empty-state illustration for an empty collection, files or notes page. One open compact cardboard archive box in a slightly elevated three-quarter view, with a single blank rounded-corner paper card hovering just above its opening at a gentle angle. Clear empty interior, believable box perspective, two small short motion strokes near card. Compact centered composition occupying about half a square canvas, generous clean near-white warm paper margins suitable for placing real UI copy below. Inkbit black ink illustration: appealing confident gently irregular contours, solid black interior shadow, white paper planes, selective varied-density stippling and tiny form-following short hatching only under box flaps. Graphic and warm, immediately readable at small display size. No landscape, no plants, no creatures, no ornate decoration, no written text, no lettering, no logos, no colored accents, no simulated UI or buttons, no all-over paper noise, no realistic photo shading. Finished standalone illustration, not a multi-panel mockup.
+```
+
 
 ## Fox in the woods
 

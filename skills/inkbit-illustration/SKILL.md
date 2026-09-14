@@ -54,4 +54,4 @@ Use supplied originals or native typesetting for exact UI, real icons, and reada
 
 When sharing or adapting package content, follow [attribution and licensing](NOTICE.md): credit MU Labs / Inkbit Illustration, retain source and CC BY 4.0 links, and describe changes. Do not automatically draw attribution into user artwork; use appropriate documentation or credits.
 
-[Subject examples and prompts](references/gallery.md) cover still life, plants, wildlife, buildings, people and landscapes. Read relevant examples as needed rather than loading the whole gallery.
+[Subject examples and prompts](references/gallery.md) cover product heroes, empty states, wildlife, buildings, people and landscapes. Read relevant examples as needed rather than loading the whole gallery.

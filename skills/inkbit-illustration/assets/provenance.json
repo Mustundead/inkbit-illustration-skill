@@ -12,20 +12,20 @@
       "contains_third_party_logos": false
     },
     {
-      "file": "assets/examples/01-still-life.png",
-      "sha256": "efd21246f4f0c59065c8561ab3984619a0923b8fde4c00bb4afc3be92131457a",
+      "file": "assets/examples/01-reading-hero.png",
+      "sha256": "c4be518d250fbba1286904cf94468387f2a7ddafc5a1161bfba928cae4b35a57",
       "role": "subject-diversity style example",
-      "provenance": "AI-generated for the Inkbit example gallery on 2026-09-14; visually inspected as an illustration, not a technical or anatomy benchmark. Prompt recorded in references/gallery-prompts.json.",
+      "provenance": "AI-generated replacement after maintainer feedback requested more practical subject matter. Visually inspected; actual generation prompt and Chinese reusable translation are recorded in references/gallery-prompts.json.",
       "tool": "built-in image generation workflow",
       "model": "not exposed",
       "license": "CC-BY-4.0 to the extent the contributor holds applicable rights",
       "contains_third_party_logos": false
     },
     {
-      "file": "assets/examples/02-botanical.png",
-      "sha256": "48d5aecd1dd03ae3b93e7f069d3caa7c9ed75b0d170c274a9280de3c146871c8",
+      "file": "assets/examples/02-empty-state.png",
+      "sha256": "8604078a2de8397695022f01d73c639c0704e48121d988b3e47013f52482fb26",
       "role": "subject-diversity style example",
-      "provenance": "AI-generated for the Inkbit example gallery on 2026-09-14; visually inspected as an illustration, not a technical or anatomy benchmark. Prompt recorded in references/gallery-prompts.json.",
+      "provenance": "AI-generated replacement after maintainer feedback requested more practical subject matter. Visually inspected; actual generation prompt and Chinese reusable translation are recorded in references/gallery-prompts.json.",
       "tool": "built-in image generation workflow",
       "model": "not exposed",
       "license": "CC-BY-4.0 to the extent the contributor holds applicable rights",

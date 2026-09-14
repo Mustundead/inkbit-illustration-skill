@@ -5,24 +5,24 @@
   "note": "English prompts are the actual generation inputs. Chinese prompts are reusable translations, not separate generation runs.",
   "examples": [
     {
-      "id": "01-still-life",
-      "en": "Breakfast still life",
-      "zh": "桌上的早餐",
-      "file": "assets/examples/01-still-life.png",
-      "prompt": "Create a finished square editorial illustration in the Inkbit style: warm off-white paper and black ink only, confident irregular dry-ink contours, substantial solid black shapes balanced with clean paper highlights, varied-density hand stippling and short form-following hatching. A vintage printed pen-and-ink illustration with tiny rough ink dots, not smooth grey airbrush, not a uniform noise filter, not a woodgrain overlay, not a pixel grid, not glossy 3D, no colored accents. Clear silhouette at thumbnail size and carefully composed negative space. No decorative frame, no letters, no labels, no watermark, no signature. This is one standalone illustration, not a collage or multi-panel sheet. A ceramic coffee cup and saucer, a flaky croissant on a small plate, and an open book on a wooden breakfast table. Quiet morning window light implied through cast shadows, no actual window frame. Close editorial still life, three-quarter view. Distinguish glossy ceramic white highlights, flaky pastry and matte paper with different ink densities.",
-      "prompt_zh": "正方形 Inkbit 墨点插画。暖白纸面与黑墨，以略干涩的轮廓、明确黑色块面、随形短排线和疏密点阵塑造形体。缩小时轮廓仍清楚，保留呼吸感。不使用彩色强调、平滑灰色渐变、统一噪点滤镜或光滑 3D 质感。不加边框、文字、水印或签名。画一杯放在杯碟上的咖啡、一块盘中的羊角面包和一本摊开的书。三分之四视角，安静的早餐桌。用留白表现陶瓷反光，用短线表现酥皮，用较浅纹理表现纸张。",
-      "lessonEn": "Different dot densities distinguish ceramic, pastry and paper.",
-      "lessonZh": "用不同点阵密度区分陶瓷、酥皮和纸张。"
+      "id": "01-reading-hero",
+      "en": "Reading and discovery",
+      "zh": "阅读与探索",
+      "prompt": "Create an Inkbit illustrated hero for a reading or knowledge app: an open book in the lower right becomes a winding white path extending seamlessly out of its pages toward a small distant mountain peak. A tiny traveler seen from behind walks up that path, showing discovery through reading. Strong elegant visual metaphor, restrained surreal editorial composition. LEFT THIRD stays completely empty near-white paper for real heading text; artwork occupies right two thirds. Landscape 3:2 composition. Black ink on subtle near-white warm paper only. Confident dry irregular ink contours, bold black mountain shadow planes, irregular stipple density and short directional hatching; white path reads crisply through dark terrain. Mid-level illustration detail, not photograph engraving and not childish clipart. Book perspective plausible, no printed marks or fake letters on pages. No coffee, food, mushrooms, plants-as-decoration, badges, logos, text, borders, sepia ink, glossy 3D or uniform grain. Quiet adventurous mood, useful product illustration, single coherent scene.",
+      "prompt_zh": "阅读应用首屏插画：右侧打开的书化为通向远山的白色小路，一名背影旅人沿路探索；左侧三分之一留白供真实标题排版。黑墨、干涩轮廓、疏密点阵和随形短排线，不加文字。",
+      "lessonEn": "A reading-app hero: the page becomes a path; left-side space accommodates a heading.",
+      "lessonZh": "用于阅读应用首屏：书页化为探索路径，左侧留出标题空间。",
+      "file": "assets/examples/01-reading-hero.png"
     },
     {
-      "id": "02-botanical",
-      "en": "Fern and mushrooms",
-      "zh": "蕨叶与蘑菇",
-      "file": "assets/examples/02-botanical.png",
-      "prompt": "Create a finished square editorial illustration in the Inkbit style: warm off-white paper and black ink only, confident irregular dry-ink contours, substantial solid black shapes balanced with clean paper highlights, varied-density hand stippling and short form-following hatching. A vintage printed pen-and-ink illustration with tiny rough ink dots, not smooth grey airbrush, not a uniform noise filter, not a woodgrain overlay, not a pixel grid, not glossy 3D, no colored accents. Clear silhouette at thumbnail size and carefully composed negative space. No decorative frame, no letters, no labels, no watermark, no signature. This is one standalone illustration, not a collage or multi-panel sheet. An elegant botanical specimen of a curling fern frond and three tiny mushrooms growing from a small moss-covered stone. Isolated balanced specimen with generous blank warm-white paper around it. Fine leaf veins, soft moss stipple, dark underside of mushroom caps. No labels, no diagram border.",
-      "prompt_zh": "正方形 Inkbit 墨点插画。暖白纸面与黑墨，以略干涩的轮廓、明确黑色块面、随形短排线和疏密点阵塑造形体。缩小时轮廓仍清楚，保留呼吸感。不使用彩色强调、平滑灰色渐变、统一噪点滤镜或光滑 3D 质感。不加边框、文字、水印或签名。画一株卷曲的蕨叶和长在苔藓石头上的三朵小蘑菇。作为独立植物配图，四周保留充足空白。叶脉用细线，苔藓用点阵，菌盖底部用深墨色。",
-      "lessonEn": "Fine hatching describes veins; stippling gives moss its softness.",
-      "lessonZh": "以细排线描叶脉，用疏密点阵表现苔藓。"
+      "id": "02-empty-state",
+      "en": "Empty collection",
+      "zh": "暂无收藏",
+      "prompt": "Create a practical app empty-state illustration for an empty collection, files or notes page. One open compact cardboard archive box in a slightly elevated three-quarter view, with a single blank rounded-corner paper card hovering just above its opening at a gentle angle. Clear empty interior, believable box perspective, two small short motion strokes near card. Compact centered composition occupying about half a square canvas, generous clean near-white warm paper margins suitable for placing real UI copy below. Inkbit black ink illustration: appealing confident gently irregular contours, solid black interior shadow, white paper planes, selective varied-density stippling and tiny form-following short hatching only under box flaps. Graphic and warm, immediately readable at small display size. No landscape, no plants, no creatures, no ornate decoration, no written text, no lettering, no logos, no colored accents, no simulated UI or buttons, no all-over paper noise, no realistic photo shading. Finished standalone illustration, not a multi-panel mockup.",
+      "prompt_zh": "为文件、收藏或笔记页面绘制空状态插画：打开的小收纳盒上方悬着一张空白卡片。紧凑居中，四周留白；黑墨轮廓、盒内深色块面、阴影处疏密点阵。不加文字、按钮或装饰场景。",
+      "lessonEn": "An empty-state illustration for files, saved items or notes; keep status copy in the interface.",
+      "lessonZh": "用于文件、收藏或笔记空状态；状态文字由真实界面排版。",
+      "file": "assets/examples/02-empty-state.png"
     },
     {
       "id": "03-wildlife",
