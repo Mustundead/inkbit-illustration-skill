@@ -32,8 +32,12 @@ def validate(root: Path) -> list[str]:
         for file in pair:
             require(file.is_file(), f"Missing locale file: {file.relative_to(root)}")
 
+    for code in ("zh-CN", "zh-TW", "en", "ja", "ko"):
+        require((root / f"README.{code}.md").is_file(), f"Missing README locale: {code}")
+        require((skill / f"SKILL.{code}.md").is_file(), f"Missing skill locale: {code}")
+
     versions = []
-    for file, language in ((skill / "SKILL.md", "en"), (skill / "SKILL.zh-CN.md", "zh-CN")):
+    for file, language in [(skill / "SKILL.md", "zh-CN"), *[(skill / f"SKILL.{code}.md", code) for code in ("zh-CN", "zh-TW", "en", "ja", "ko")]]:
         if not file.is_file():
             continue
         text = file.read_text(encoding="utf-8")
@@ -96,7 +100,7 @@ def validate(root: Path) -> list[str]:
         require(bool(manifest["assets"]), "No declared reference asset")
     except (OSError, ValueError, KeyError, TypeError) as exc:
         errors.append(f"Invalid asset manifest: {exc}")
-    require(len(versions) == 3 and len(set(versions)) == 1 and isinstance(versions[0], str), "Version mismatch")
+    require(len(versions) == 7 and len(set(versions)) == 1 and isinstance(versions[0], str), "Version mismatch")
 
     try:
         ui = yaml.safe_load((skill / "agents/openai.yaml").read_text(encoding="utf-8"))["interface"]

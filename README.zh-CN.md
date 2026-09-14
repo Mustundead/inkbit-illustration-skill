@@ -1,6 +1,6 @@
 # Inkbit Illustration · 墨点插画
 
-简体中文 · [English](README.md)
+[简体中文](README.md) · [繁體中文](README.zh-TW.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
 可反复调用的黑白墨线插画 Agent Skill：明确轮廓、干涩笔触、疏密点阵、短排线与纸面留白。由 MU Labs 制作。
 
@@ -55,7 +55,7 @@ fi
 
 未立即显示时，使用新会话或宿主的技能刷新机制。本包采用 [Agent Skills 格式](https://agentskills.io/specification)，其他兼容宿主可读取 `SKILL.md`；宿主支持情况及图像工具可用性不同，本包不声称已完成跨宿主认证。
 
-默认英文入口是 `SKILL.md`，中文请求路由到 `SKILL.zh-CN.md`。不要安装两个互相竞争的技能 ID。`agents/openai.yaml` 提供可选 Codex 界面信息，其他宿主不依赖此文件。
+默认简体中文入口是 `SKILL.md`，其他语言使用对应的 `SKILL.<语言>.md`。不要安装两个互相竞争的技能 ID。`agents/openai.yaml` 提供可选 Codex 界面信息，其他宿主不依赖此文件。
 
 ## 依赖与限制
 
@@ -73,3 +73,5 @@ python3 scripts/validate.py
 ## 许可与署名
 
 技能内容与参考图采用 [CC BY 4.0](LICENSE)，维护脚本采用 [MIT](scripts/LICENSE)。引用、分享或改编受许可内容时，需署名 **MU Labs / Inkbit Illustration**，附[项目来源](https://github.com/mustundead/inkbit-illustration-skill)与许可链接，并说明修改。完整范围和署名模板见 [NOTICE](NOTICE.md)。当前版本 0.1.1，验证范围见 [验证记录](docs/VALIDATION.md)。
+
+默认简体中文，支持繁体中文、英文、日文和韩文。各语言有独立使用入口；详细参考资料目前提供简体中文与英文。新生成图片统一纯黑墨色与纯白背景，旧画廊图片不代表已完成颜色修订。

@@ -1,57 +1,63 @@
 ---
 name: inkbit-illustration
-description: Create or edit retro monochrome ink illustrations with stippling, short hatching, bold silhouettes, and paper negative space. Use for illustrated hero art, editorial scenes, spot art, or asset series when the user requests Inkbit, 墨点插画, or this printlike ink style. Not for generic website redesigns, exact UI rendering, or small edits to existing vector icons.
+description: 创作或修改复古黑白墨线、疏密点阵与纸面留白插画，适用于插画主视觉、编辑配图、点缀插画及系列素材。用户要求墨点插画、Inkbit、版画感点描或沿用相同墨线风格时使用；不用于普通网站重设计、精确 UI 绘制或现有矢量图标的小修改。
 license: CC-BY-4.0
 metadata:
   author: MU Labs
-  version: "0.1.2"
-  language: en
+  version: "0.1.3"
+  language: zh-CN
 ---
 
-# Inkbit Illustration
+# Inkbit Illustration · 墨点插画
 
-Build illustrations from strong contours, black shapes, form-following stippling, and paper negative space. Preserve the user's subject and composition. Cats, ladders, mountains, and retro windows are examples, not required motifs.
+用明确的轮廓、黑色块面、随形体变化的疏密点阵和纸面留白，创作有手绘印刷质感的插画。沿用用户的主题与构图；猫、梯子、山峰和复古窗口都是例子，不是固定元素。
 
-[完整中文版](SKILL.zh-CN.md) describes the same skill. Read the version matching the user's language; do not load both in full. Respond in the user's language.
+这是 [SKILL.md](SKILL.md) 的完整中文版。按用户语言阅读相应版本，不要同时加载两版全文。回复使用用户语言。
 
-## Scope the request
+## 确定本次任务
 
-Distinguish new artwork, a local edit, an asset series, prompt writing, and review only. Reuse the conversation and project context for subject, destination, dimensions, background, and references. Choose reasonable reversible defaults instead of imposing a questionnaire or an options round.
+区分新创作、已有图局部修改、系列素材、仅写提示词或仅评审。优先从对话和项目获取主题、用途、尺寸、底色及参考图。对可逆细节采用合理默认值，不强制问卷或多方案评审。
 
-Label each input as a style reference, identity reference, composition reference, or edit target, and inspect it. The user's selected reference takes precedence over bundled examples.
+将每张参考标记为风格参考、角色参考、构图参考或编辑目标，并先查看图片。用户指定的参考优先于本包示例。
 
-## Style essentials
+## 风格要点
 
-- Establish a readable thumbnail silhouette before texture. Black masses carry visual weight; dots and short hatching model form rather than coat the entire canvas.
-- Use slightly dry, varied contours. Vary dot density with shadow, material, and depth. Avoid mechanical outlines and a uniform noise overlay.
-- Default to black ink on warm white paper. `#151512` / `#F1F0E7` are optional layout swatches, not exact pixel requirements. A requested transparent or specific background overrides paper.
-- Default to monochrome. If an accent is requested, derive it from supplied brand artwork or an explicit color and keep it localized. Do not invent a gold accent.
-- Leave breathing room. Find playfulness in pose, scale, and relationships rather than accumulations of stickers and symbols.
+- 先保证缩略图中能读懂轮廓，再增加纹理。黑色块面承担视觉重心；点阵和短排线塑造体积，不均匀铺满全图。
+- 线条略有干涩和粗细变化，避免机械描边。点阵密度随阴影、材质和空间远近改变，避免直接叠加噪点滤镜。
+- 使用纯黑墨色与纯白背景；明确要求透明时使用透明背景。
+- 不使用米白、泛黄、棕色或彩色强调。用黑色点阵、短排线和留白表现明暗。
+- 保留足够留白。趣味来自姿态、尺度或物件关系，不靠大量贴纸和符号。
 
-Read the [style guide](references/style-guide.md) when composition or material needs detail. Inspect the [visual reference](assets/style-reference.png) when matching the mark-making; do not copy its scene by default.
+构图或材质需要细化时阅读 [风格指南](references/style-guide.zh-CN.md)。需要比对画法时查看 [参考图](assets/style-reference.png)，不要默认照搬场景。
 
-## Execute
+## 执行
 
-**New artwork:** Organize a prompt around subject, action, composition, ink treatment, background, and delivery. Add only details that serve the brief. Use [prompt recipes](references/prompts.md) when useful.
+**新创作：** 用主题、动作、构图、墨线与点阵、底色、交付方式组织提示词。只添加有助于用户目标的细节。模板见 [提示词](references/prompts.zh-CN.md)。
 
-**Local edit:** Separate allowed changes from invariants. Lock the relevant proportions, markings/material, silhouette, camera, and surroundings. Use image editing rather than generating from a fresh verbal description. When identity drifts, return to the most recent acceptable source instead of repeatedly editing the drifted result.
+**局部修改：** 区分允许改变的部分与必须保留的部分。锁定相关的角色比例、色斑或材质、轮廓、镜头及周围场景。使用图像编辑，而非重新描述后从零生成。发生角色漂移时，回到最近一张可接受的来源，避免沿着变形版本反复修改。
 
-**Series:** Fix line weight, dot scale, palette, subject occupancy, and camera in a shared prompt block, then vary subject and action. Deliver the requested count without expanding into an unsolicited brand kit.
+**系列素材：** 先固定线条、点阵尺度、色板、主体占比和视角，再用共享提示段只替换主题与动作。交付用户要求的数量，不扩展成未请求的品牌套件。
 
-Use an image generation/editing tool actually available in the host; prefer its built-in image tool when available and follow its reference, alpha, and output requirements. Do not invent model versions or unsupported parameters. This skill does not authorize purchases, plugin installation, or switching to a paid API. Without an image tool, provide a prompt labeled as not yet rendered. Do not generate when the request is only for prompts or review.
+使用当前环境实际可用的图像生成或编辑工具；有内置图像工具时优先使用，并遵循它的参考图、透明通道和文件输出规则。不要虚构模型版本或参数。本 skill 不授权购买额度、安装插件或切换到付费 API。没有图像工具时，交付明确标注为“尚未生成图片”的提示词。用户仅要求提示词或评审时，不生成图片。
 
-## Inspect and deliver
+## 验收与交付
 
-Inspect the image and its intended display size: subject/action clarity, reference identity, physical contacts and occlusion, texture legibility, and requested color/background. Use the relevant checks in [quality guidance](references/quality.md).
+查看生成结果，并在最终展示尺寸下检查主题与动作、参考角色、接触与遮挡、纹理可读性、颜色和背景。对应检查见 [验收指南](references/quality.zh-CN.md)。
 
-Fix observed defects with focused edits. If two attempts at the same defect make no progress, identify the remaining mismatch and retain the candidate; do not declare success or loop indefinitely.
+仅修复观察到的问题，每次聚焦少量修改。针对同一问题两次修改仍无改善时，说明具体偏差并保留候选；不要声称通过，也不要无限生成。
 
-Save versioned files and retain sources. If project integration is authorized, copy the asset into the project, update the real reference, and inspect the requested running page or app. Generation alone does not authorize project edits. Deliver the image, actual saved path, final prompt or its record, and any concrete unmet request. Distinguish generated, integrated, verified, and user accepted.
+保存版本化文件，保留原图。项目集成已获授权时，把素材复制到项目，更新实际引用，并在指定页面或应用内检查。仅生成图片不代表获准修改项目。交付图片、实际保存位置、最终提示词或记录链接，以及具体未满足项。区分已生成、已集成、已验证和用户已接受。
 
-Use supplied originals or native typesetting for exact UI, real icons, and readable copy. Do not have a model guess brand marks, measurements, or interface geometry. Dark-mode adaptation must not blindly invert character markings or brand colors.
+精确 UI、真实图标与可读文字使用提供的原始素材或原生排版，不让生成模型猜测品牌标志、读数或界面布局。深色适配不应直接反相整个插画而改变角色毛色或品牌颜色。
 
-## Attribution
+## 署名
 
-When sharing or adapting package content, follow [attribution and licensing](NOTICE.md): credit MU Labs / Inkbit Illustration, retain source and CC BY 4.0 links, and describe changes. Do not automatically draw attribution into user artwork; use appropriate documentation or credits.
+分享或改编本包内容时，遵循 [署名与许可](NOTICE.md)：署名 MU Labs / Inkbit Illustration，附来源与 CC BY 4.0 链接并说明修改。不要自动把署名绘入用户插画；在适用的说明或致谢中署名。
 
-[Subject examples and prompts](references/gallery.md) cover product heroes, empty states, wildlife, buildings, people and landscapes. Read relevant examples as needed rather than loading the whole gallery.
+[不同题材的示例与提示词](references/gallery.zh-CN.md) 展示产品首屏、空状态、动物、建筑、人物与风景。按需要读取，不必加载全部示例。
+
+## 语言与配色优先规则
+
+[简体中文](SKILL.md) · [繁體中文](SKILL.zh-TW.md) · [English](SKILL.en.md) · [日本語](SKILL.ja.md) · [한국어](SKILL.ko.md)
+
+默认简体中文。遵从明确语言选择，否则匹配用户的简体中文、繁体中文、英文、日文或韩文。只加载相应语言版本。生成图片统一使用纯黑墨色与纯白背景；不使用米白、泛黄、棕色或彩色强调。明暗通过黑色点阵、短排线与留白表现；明确要求透明背景时保留透明。历史参考和提示词中的暖纸色不覆盖此规则。

@@ -23,3 +23,7 @@ The attribution update was structurally revalidated locally. Earlier prompt exer
 2026-09-14: Six AI-generated subject examples were visually inspected, including a revised cyclist after maintainer feedback. Local metadata, bilingual links and all seven asset hashes passed validation. Actual English generation and edit prompts plus Chinese reusable translations are recorded. These are illustrative examples, not anatomy or engineering benchmarks; Chinese translations were not separately rendered. User acceptance is not claimed. / 六张题材示例已逐张检查，骑行人物按反馈修订。元数据、双语链接与七张素材哈希通过本地验证；记录实际英文生成和修改提示词及中文译写。不声称用户已验收或通过专业结构基准。
 
 Follow-up: rejected breakfast and botanical examples were replaced with a reading hero and collection empty state. Both replacements were visually inspected; asset hashes and links revalidated. / 后续按反馈将早餐和植物替换为阅读首屏与收藏空状态，逐图检查并重新验证哈希和链接。
+
+## 0.1.3 language support
+
+Simplified Chinese is the canonical default. All five language entrypoints and README links are checked locally; detailed reference documents remain Chinese/English. Entry instructions were reviewed for scope, tool use, editing invariants, inspection and attribution. No cross-host language benchmark or recoloring of existing assets is claimed.
