@@ -1,0 +1,15 @@
+{
+  "version": "0.1.1",
+  "assets": [
+    {
+      "file": "assets/style-reference.png",
+      "sha256": "a8a6ab2b76fa2560181bbc9cf2dce78b7e67f2b7fab780f64e433642018a117c",
+      "role": "mark-making reference only",
+      "provenance": "AI-generated illustration supplied by the project maintainer during style development. It is an example, not an anatomy or pose acceptance benchmark.",
+      "tool": "built-in image generation workflow",
+      "model": "not exposed",
+      "license": "CC-BY-4.0 to the extent the contributor holds applicable rights",
+      "contains_third_party_logos": false
+    }
+  ]
+}

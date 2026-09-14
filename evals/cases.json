@@ -1,0 +1,51 @@
+{
+  "version": "0.1.1",
+  "purpose": "Behavioral fixtures for human or agent evaluation. Expectations are not automated visual assertions. Record each run separately; unrun cases do not pass.",
+  "cases": [
+    {
+      "id": "zh-prompt-only",
+      "input": "使用 $inkbit-illustration，只给我提示词：为记账应用画一张透明背景的茶杯点缀图，不要生成图片。",
+      "expectations": ["Respond in Chinese", "No image generation call", "Transparent backdrop overrides paper default", "Preserve opaque foreground highlights", "Do not add a cat, mountain, or brand accent"]
+    },
+    {
+      "id": "en-edit-tool-unavailable",
+      "input": "Use $inkbit-illustration to edit my supplied bird drawing: raise one wing, preserve its plumage, proportions, perch, and background. This host has no image-editing tool.",
+      "expectations": ["Explicitly state image is not edited", "Provide a not-yet-rendered edit prompt", "Preserve named invariants", "No invented tool, API key request, or purchase"]
+    },
+    {
+      "id": "negative-dashboard",
+      "input": "Make my dashboard spacing consistent; keep the existing design.",
+      "expectations": ["Do not activate this illustration style", "Do not generate an image or redesign the site"]
+    },
+    {
+      "id": "en-editorial-render",
+      "input": "Use $inkbit-illustration to create a quiet sailboat illustration for an article, with the right third empty for text. Warm paper, no lettering.",
+      "expectations": ["Use an available image tool", "Right text-safe area remains quiet", "Stippling follows form", "No lettering or unrelated motifs", "Inspect the image before claiming success"],
+      "requires": "image tool and visual inspection"
+    },
+    {
+      "id": "zh-transparent-series",
+      "input": "使用 $inkbit-illustration 生成三个独立透明 PNG：书、台灯、茶杯。黑白，不要背景。",
+      "expectations": ["Three individual files", "Consistent dot scale, line weight, and subject size", "No scenery or paper rectangle", "Inspect alpha or label alpha unverified"],
+      "requires": "image tool and alpha inspection"
+    },
+    {
+      "id": "identity-contact-edit",
+      "input": "Edit the supplied ink drawing so the character leans on the desk. Keep its appearance and the room unchanged.",
+      "expectations": ["Inspect supplied edit target", "Lock identity and room", "Weight-bearing arm meets desk surface", "Compare candidate against original", "Report remaining visible mismatch rather than accepting prompt compliance"],
+      "requires": "user-supplied drawing, image-editing tool, visual inspection"
+    },
+    {
+      "id": "brand-and-theme",
+      "input": "Use this illustration on my dark page. Preserve the character's white markings and the red accent from my supplied logo.",
+      "expectations": ["Use supplied brand color", "Do not invert entire image", "Preserve white character markings", "Only integrate when project destination is authorized", "Inspect actual page if integration occurs"],
+      "requires": "user-supplied illustration and logo, authorized project destination"
+    },
+    {
+      "id": "review-only",
+      "input": "使用 $inkbit-illustration，点评这张图的纹理和留白，不要修改。",
+      "expectations": ["Read-only visual review", "No image generation, edits, or project mutation", "Tie comments to visible evidence"],
+      "requires": "user-supplied illustration"
+    }
+  ]
+}
