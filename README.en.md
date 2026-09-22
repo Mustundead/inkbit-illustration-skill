@@ -1,8 +1,8 @@
-# Inkbit Illustration
+# MU LABS Inkbit Illustration
 
 [简体中文](README.md) · [繁體中文](README.zh-TW.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
-A reusable Agent Skill for monochrome ink illustrations: strong silhouettes, dry contours, stippling, short hatching, and generous paper negative space. By MU Labs.
+A reusable Agent Skill for monochrome ink illustrations: strong silhouettes, dry contours, stippling, short hatching, and generous paper negative space. By MU LABS.
 
 
 
@@ -22,7 +22,7 @@ A reusable Agent Skill for monochrome ink illustrations: strong silhouettes, dry
 
 ![Reading corner](skills/inkbit-illustration/assets/examples/13-reading-corner.png)
 
-[Image prompts](skills/inkbit-illustration/references/selected-gallery.md) · MU Labs / Inkbit Illustration · CC BY 4.0
+[Image prompts](skills/inkbit-illustration/references/selected-gallery.md) · MU LABS / MU LABS Inkbit Illustration · CC BY 4.0
 
 
 ## Use it
@@ -79,6 +79,6 @@ The validator checks package structure, metadata, local links, locale pairs, and
 
 ## License and attribution
 
-Skill content and artwork use [CC BY 4.0](LICENSE); maintenance code uses [MIT](scripts/LICENSE). When sharing or adapting licensed material, credit **MU Labs / Inkbit Illustration**, include the [source](https://github.com/mustundead/inkbit-illustration-skill) and license links, and describe modifications. See [NOTICE](NOTICE.md) for scope and a credit template. Version: 0.1.1. See the [validation record](docs/VALIDATION.md) for tested boundaries.
+Skill content and artwork use [CC BY 4.0](LICENSE); maintenance code uses [MIT](scripts/LICENSE). When sharing or adapting licensed material, credit **MU LABS / MU LABS Inkbit Illustration**, include the [source](https://github.com/mustundead/inkbit-illustration-skill) and license links, and describe modifications. See [NOTICE](NOTICE.md) for scope and a credit template. Version: 0.1.1. See the [validation record](docs/VALIDATION.md) for tested boundaries.
 
 Simplified Chinese is the default, with Traditional Chinese, English, Japanese and Korean entrypoints. Detailed reference documents remain available in Simplified Chinese and English. New images use black ink on pure white; existing gallery images have not been recolored.

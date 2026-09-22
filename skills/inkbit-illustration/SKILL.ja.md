@@ -3,12 +3,12 @@ name: inkbit-illustration
 description: Inkbit の白黒インクイラストを制作・編集します。輪郭、点描、短いハッチング、余白を用いたキービジュアルや挿絵向けです。一般的なサイト改修や正確な UI・ロゴの再現には使用しません。
 license: CC-BY-4.0
 metadata:
-  author: MU Labs
+  author: MU LABS
   version: "0.1.3"
   language: ja
 ---
 
-# Inkbit Illustration · 墨点イラスト
+# MU LABS Inkbit Illustration · 墨点イラスト
 
 [简体中文](SKILL.md) · [繁體中文](SKILL.zh-TW.md) · [English](SKILL.en.md) · [日本語](SKILL.ja.md) · [한국어](SKILL.ko.md)
 
@@ -33,4 +33,4 @@ metadata:
 ## 参考とクレジット
 必要に応じて[英語の詳細ガイド](references/style-guide.md)、[プロンプト](references/prompts.md)、[確認項目](references/quality.md)、[作例](references/gallery.md)を参照し、日本語で説明します。過去のプロンプトより本ページの白黒指定を優先します。
 
-内容を再利用・改変する場合は MU Labs / Inkbit Illustration を表示し、出典と CC BY 4.0 のリンクを維持して変更を明記します。画像内に自動で署名を入れません。権利の範囲は [NOTICE](NOTICE.md) を参照してください。
+内容を再利用・改変する場合は MU LABS / MU LABS Inkbit Illustration を表示し、出典と CC BY 4.0 のリンクを維持して変更を明記します。画像内に自動で署名を入れません。権利の範囲は [NOTICE](NOTICE.md) を参照してください。

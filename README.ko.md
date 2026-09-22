@@ -1,4 +1,4 @@
-# Inkbit Illustration · 잉크 점묘 일러스트
+# MU LABS Inkbit Illustration · 잉크 점묘 일러스트
 
 [简体中文](README.md) · [繁體中文](README.zh-TW.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
@@ -21,7 +21,7 @@ Inkbit 흑백 잉크 일러스트를 만들거나 수정합니다. 윤곽, 점�
 
 ![Reading corner](skills/inkbit-illustration/assets/examples/13-reading-corner.png)
 
-[Image prompts](skills/inkbit-illustration/references/selected-gallery.md) · MU Labs / Inkbit Illustration · CC BY 4.0
+[Image prompts](skills/inkbit-illustration/references/selected-gallery.md) · MU LABS / MU LABS Inkbit Illustration · CC BY 4.0
 
 
 ## 설치와 사용
@@ -36,6 +36,6 @@ $inkbit-illustration을 사용해 여행 주제의 흑백 점묘 일러스트를
 
 ## 라이선스
 
-재사용·수정할 때 MU Labs / Inkbit Illustration, 출처, CC BY 4.0 링크를 유지하고 변경 사항을 표시하세요.
+재사용·수정할 때 MU LABS / MU LABS Inkbit Illustration, 출처, CC BY 4.0 링크를 유지하고 변경 사항을 표시하세요.
 
 [NOTICE](NOTICE.md) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · [Source](https://github.com/mustundead/inkbit-illustration-skill)

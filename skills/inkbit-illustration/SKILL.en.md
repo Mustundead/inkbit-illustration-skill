@@ -3,12 +3,12 @@ name: inkbit-illustration
 description: Create or edit retro monochrome ink illustrations with stippling, short hatching, bold silhouettes, and paper negative space. Use for illustrated hero art, editorial scenes, spot art, or asset series when the user requests Inkbit, 墨点插画, or this printlike ink style. Not for generic website redesigns, exact UI rendering, or small edits to existing vector icons.
 license: CC-BY-4.0
 metadata:
-  author: MU Labs
+  author: MU LABS
   version: "0.1.3"
   language: en
 ---
 
-# Inkbit Illustration
+# MU LABS Inkbit Illustration
 
 Build illustrations from strong contours, black shapes, form-following stippling, and paper negative space. Preserve the user's subject and composition. Cats, ladders, mountains, and retro windows are examples, not required motifs.
 
@@ -54,7 +54,7 @@ Use supplied originals or native typesetting for exact UI, real icons, and reada
 
 ## Attribution
 
-When sharing or adapting package content, follow [attribution and licensing](NOTICE.md): credit MU Labs / Inkbit Illustration, retain source and CC BY 4.0 links, and describe changes. Do not automatically draw attribution into user artwork; use appropriate documentation or credits.
+When sharing or adapting package content, follow [attribution and licensing](NOTICE.md): credit MU LABS / MU LABS Inkbit Illustration, retain source and CC BY 4.0 links, and describe changes. Do not automatically draw attribution into user artwork; use appropriate documentation or credits.
 
 [Subject examples and prompts](references/gallery.md) cover product heroes, empty states, wildlife, buildings, people and landscapes. Read relevant examples as needed rather than loading the whole gallery.
 

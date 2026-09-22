@@ -1,8 +1,8 @@
-# Inkbit Illustration · 墨点插画
+# MU LABS Inkbit Illustration · 墨点插画
 
 [简体中文](README.md) · [繁體中文](README.zh-TW.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
-可反复调用的黑白墨线插画 Agent Skill：明确轮廓、干涩笔触、疏密点阵、短排线与纸面留白。由 MU Labs 制作。
+可反复调用的黑白墨线插画 Agent Skill：明确轮廓、干涩笔触、疏密点阵、短排线与纸面留白。由 MU LABS 制作。
 
 
 
@@ -22,7 +22,7 @@
 
 ![阅读空间](skills/inkbit-illustration/assets/examples/13-reading-corner.png)
 
-[查看每张图片的提示词](skills/inkbit-illustration/references/selected-gallery.zh-CN.md) · MU Labs / Inkbit Illustration · CC BY 4.0
+[查看每张图片的提示词](skills/inkbit-illustration/references/selected-gallery.zh-CN.md) · MU LABS / MU LABS Inkbit Illustration · CC BY 4.0
 
 
 ## 使用
@@ -79,6 +79,6 @@ python3 scripts/validate.py
 
 ## 许可与署名
 
-技能内容与参考图采用 [CC BY 4.0](LICENSE)，维护脚本采用 [MIT](scripts/LICENSE)。引用、分享或改编受许可内容时，需署名 **MU Labs / Inkbit Illustration**，附[项目来源](https://github.com/mustundead/inkbit-illustration-skill)与许可链接，并说明修改。完整范围和署名模板见 [NOTICE](NOTICE.md)。当前版本 0.1.1，验证范围见 [验证记录](docs/VALIDATION.md)。
+技能内容与参考图采用 [CC BY 4.0](LICENSE)，维护脚本采用 [MIT](scripts/LICENSE)。引用、分享或改编受许可内容时，需署名 **MU LABS / MU LABS Inkbit Illustration**，附[项目来源](https://github.com/mustundead/inkbit-illustration-skill)与许可链接，并说明修改。完整范围和署名模板见 [NOTICE](NOTICE.md)。当前版本 0.1.1，验证范围见 [验证记录](docs/VALIDATION.md)。
 
 默认简体中文，支持繁体中文、英文、日文和韩文。各语言有独立使用入口；详细参考资料目前提供简体中文与英文。新生成图片统一纯黑墨色与纯白背景，旧画廊图片不代表已完成颜色修订。

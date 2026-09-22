@@ -76,6 +76,6 @@ Create a finished square editorial illustration in the Inkbit style: warm off-wh
 
 ## Attribution
 
-MU Labs / Inkbit Illustration · [Source](https://github.com/mustundead/inkbit-illustration-skill) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+MU LABS / MU LABS Inkbit Illustration · [Source](https://github.com/mustundead/inkbit-illustration-skill) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 Retain attribution, source and license links when reusing or adapting, and describe changes. See [NOTICE](../NOTICE.md) for the rights scope.

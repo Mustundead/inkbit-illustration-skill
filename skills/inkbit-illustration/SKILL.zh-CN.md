@@ -3,12 +3,12 @@ name: inkbit-illustration
 description: 创作或修改复古黑白墨线、疏密点阵与纸面留白插画，适用于插画主视觉、编辑配图、点缀插画及系列素材。用户要求墨点插画、Inkbit、版画感点描或沿用相同墨线风格时使用；不用于普通网站重设计、精确 UI 绘制或现有矢量图标的小修改。
 license: CC-BY-4.0
 metadata:
-  author: MU Labs
+  author: MU LABS
   version: "0.1.3"
   language: zh-CN
 ---
 
-# Inkbit Illustration · 墨点插画
+# MU LABS Inkbit Illustration · 墨点插画
 
 用明确的轮廓、黑色块面、随形体变化的疏密点阵和纸面留白，创作有手绘印刷质感的插画。沿用用户的主题与构图；猫、梯子、山峰和复古窗口都是例子，不是固定元素。
 
@@ -52,7 +52,7 @@ metadata:
 
 ## 署名
 
-分享或改编本包内容时，遵循 [署名与许可](NOTICE.md)：署名 MU Labs / Inkbit Illustration，附来源与 CC BY 4.0 链接并说明修改。不要自动把署名绘入用户插画；在适用的说明或致谢中署名。
+分享或改编本包内容时，遵循 [署名与许可](NOTICE.md)：署名 MU LABS / MU LABS Inkbit Illustration，附来源与 CC BY 4.0 链接并说明修改。不要自动把署名绘入用户插画；在适用的说明或致谢中署名。
 
 [不同题材的示例与提示词](references/gallery.zh-CN.md) 展示产品首屏、空状态、动物、建筑、人物与风景。按需要读取，不必加载全部示例。
 

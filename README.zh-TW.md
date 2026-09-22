@@ -1,4 +1,4 @@
-# Inkbit Illustration · 墨點插畫
+# MU LABS Inkbit Illustration · 墨點插畫
 
 [简体中文](README.md) · [繁體中文](README.zh-TW.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
@@ -21,7 +21,7 @@
 
 ![阅读空间](skills/inkbit-illustration/assets/examples/13-reading-corner.png)
 
-[查看每张图片的提示词](skills/inkbit-illustration/references/selected-gallery.zh-CN.md) · MU Labs / Inkbit Illustration · CC BY 4.0
+[查看每张图片的提示词](skills/inkbit-illustration/references/selected-gallery.zh-CN.md) · MU LABS / MU LABS Inkbit Illustration · CC BY 4.0
 
 
 ## 安裝與使用
@@ -36,6 +36,6 @@
 
 ## 授權
 
-引用或改編請署名 MU Labs / Inkbit Illustration，保留來源與 CC BY 4.0 連結並說明修改。
+引用或改編請署名 MU LABS / MU LABS Inkbit Illustration，保留來源與 CC BY 4.0 連結並說明修改。
 
 [NOTICE](NOTICE.md) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · [Source](https://github.com/mustundead/inkbit-illustration-skill)

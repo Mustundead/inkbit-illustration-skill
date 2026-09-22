@@ -3,12 +3,12 @@ name: inkbit-illustration
 description: 創作或修改黑白墨點插畫，以清楚輪廓、短排線、疏密點陣與留白呈現主視覺、場景和配圖。適用於 Inkbit 風格需求，不用於一般網站改版或精確介面與商標重繪。
 license: CC-BY-4.0
 metadata:
-  author: MU Labs
+  author: MU LABS
   version: "0.1.3"
   language: zh-TW
 ---
 
-# Inkbit Illustration · 墨點插畫
+# MU LABS Inkbit Illustration · 墨點插畫
 
 [简体中文](SKILL.md) · [繁體中文](SKILL.zh-TW.md) · [English](SKILL.en.md) · [日本語](SKILL.ja.md) · [한국어](SKILL.ko.md)
 
@@ -33,4 +33,4 @@ metadata:
 ## 延伸與署名
 按需要查看[詳細中文畫風指南](references/style-guide.zh-CN.md)、[提示詞](references/prompts.zh-CN.md)、[檢查要點](references/quality.zh-CN.md)及[示例](references/gallery.zh-CN.md)，對外以繁體中文回覆。歷史提示詞不覆蓋本頁的黑白要求。
 
-引用或改編套件內容時署名 MU Labs / Inkbit Illustration，保留來源與 CC BY 4.0 連結並說明修改。不要自動把署名畫入圖片。權利範圍見 [NOTICE](NOTICE.md)。
+引用或改編套件內容時署名 MU LABS / MU LABS Inkbit Illustration，保留來源與 CC BY 4.0 連結並說明修改。不要自動把署名畫入圖片。權利範圍見 [NOTICE](NOTICE.md)。

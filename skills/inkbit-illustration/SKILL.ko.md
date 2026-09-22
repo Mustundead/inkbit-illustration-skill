@@ -3,12 +3,12 @@ name: inkbit-illustration
 description: Inkbit 흑백 잉크 일러스트를 만들거나 수정합니다. 윤곽, 점묘, 짧은 해칭과 여백을 활용하는 대표 이미지와 삽화에 사용하며 일반 웹사이트 개편이나 정확한 UI·로고 재현에는 사용하지 않습니다.
 license: CC-BY-4.0
 metadata:
-  author: MU Labs
+  author: MU LABS
   version: "0.1.3"
   language: ko
 ---
 
-# Inkbit Illustration · 잉크 점묘 일러스트
+# MU LABS Inkbit Illustration · 잉크 점묘 일러스트
 
 [简体中文](SKILL.md) · [繁體中文](SKILL.zh-TW.md) · [English](SKILL.en.md) · [日本語](SKILL.ja.md) · [한국어](SKILL.ko.md)
 
@@ -33,4 +33,4 @@ metadata:
 ## 참고와 출처 표시
 필요할 때 [영문 상세 가이드](references/style-guide.md), [프롬프트](references/prompts.md), [점검 사항](references/quality.md), [예시](references/gallery.md)를 읽고 한국어로 설명합니다. 과거 프롬프트보다 이 페이지의 흑백 규칙을 우선합니다.
 
-자료를 재사용하거나 수정하면 MU Labs / Inkbit Illustration을 표시하고 출처와 CC BY 4.0 링크를 유지하며 변경 사항을 밝힙니다. 이미지에 서명을 자동으로 그리지 않습니다. 권리 범위는 [NOTICE](NOTICE.md)를 따릅니다.
+자료를 재사용하거나 수정하면 MU LABS / MU LABS Inkbit Illustration을 표시하고 출처와 CC BY 4.0 링크를 유지하며 변경 사항을 밝힙니다. 이미지에 서명을 자동으로 그리지 않습니다. 권리 범위는 [NOTICE](NOTICE.md)를 따릅니다.

@@ -76,6 +76,6 @@
 
 ## 署名
 
-MU Labs / Inkbit Illustration · [源项目](https://github.com/mustundead/inkbit-illustration-skill) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+MU LABS / MU LABS Inkbit Illustration · [源项目](https://github.com/mustundead/inkbit-illustration-skill) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 引用或改编时保留署名、来源与许可链接，并说明修改。具体权利范围见 [NOTICE](../NOTICE.md)。
